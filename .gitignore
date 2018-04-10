@@ -2,3 +2,4 @@ bin
 public
 git_rsa
 git_rsa.pub
+node_modules
